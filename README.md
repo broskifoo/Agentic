@@ -6,6 +6,7 @@ This repository contains my code and notes as I follow along with the **10 Hours
 * LangChain Fundamentals
 * Building Tools and Agents
 * Working with Large Language Models (LLMs) including OpenAI, Gemini, and Groq
+* Structured Outputs, Pydantic, and Data Parsing
 * And more...
 
 ## Project Structure
