@@ -8,10 +8,14 @@ This repository contains my code and notes as I follow along with the **10 Hours
 * Working with Large Language Models (LLMs) including OpenAI, Gemini, and Groq
 * Structured Outputs, Pydantic, and Data Parsing
 * Middleware in LangChain
+* LangGraph Basics (Chatbots, Human-in-the-loop)
+* Model Context Protocol (MCP) Servers and Clients
 * And more...
 
 ## Project Structure
 * `updatedlangchain/` - Contains Jupyter notebooks for various LangChain and Agentic AI exercises.
+* `updatedlanggraph/` - Contains notebooks focusing on LangGraph implementations (chatbots, human-in-the-loop).
+* `debugging/` - Contains MCP server definitions (e.g., math and weather) and client testing scripts.
 * `main.py` - Main script files.
 * `requirements.txt` - Python dependencies.
 
